@@ -6,7 +6,13 @@ e que roda no terminal, funcionar diretamente do navegador, utilizando python, o
 ## Prazo
 O prazo de entrega do código do trabalho, através de um repositório no Github é 23/11/2024.
 No dia 27/11/2024 será feita a validação do trabalho, através de questionamentos feitos pelo professor
-para cada grupo. 
+para cada grupo.
+Atenção para não alterar seu código após o prazo. O único arquivo que poderá ser modificado é o arquivo README.md 
+
+## Arquivo README.md
+O arquivo README.md deverá conter o nome completo dos integrantes do grupo assim como
+as etapas necessárias para a replicação do projeto localmente a partir da clonagem do
+repositório.
 
 ## Notas
 A nota da P2 é obtida através da soma de duas outras notas.
